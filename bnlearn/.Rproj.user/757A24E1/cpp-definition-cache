@@ -1,0 +1,3197 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/acyclic.c",
+                "kind" : 6,
+                "line" : 18,
+                "name" : "is_pdag_acyclic(SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@is_pdag_acyclic"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/acyclic.c",
+                "kind" : 6,
+                "line" : 215,
+                "name" : "build_return_array(SEXP, short *, int, int, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:acyclic.c@F@build_return_array"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/acyclic.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/allocations.c",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "PROTECT_DEBUG(SEXP, const char *, const char *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@PROTECT_DEBUG"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/allocations.c",
+                "kind" : 6,
+                "line" : 15,
+                "name" : "UNPROTECT_DEBUG(int, const char *, const char *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@UNPROTECT_DEBUG"
+            },
+            {
+                "column" : 7,
+                "file" : "/home/aogbechie/sources/bnlearn/src/allocations.c",
+                "kind" : 6,
+                "line" : 25,
+                "name" : "R_calloc(size_t, size_t)",
+                "parent_name" : "",
+                "usr" : "c:@F@R_calloc"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/allocations.c",
+                "kind" : 6,
+                "line" : 40,
+                "name" : "R_calloc2(size_t, size_t, size_t)",
+                "parent_name" : "",
+                "usr" : "c:@F@R_calloc2"
+            },
+            {
+                "column" : 9,
+                "file" : "/home/aogbechie/sources/bnlearn/src/allocations.c",
+                "kind" : 6,
+                "line" : 58,
+                "name" : "R_calloc3(size_t, size_t, size_t, size_t)",
+                "parent_name" : "",
+                "usr" : "c:@F@R_calloc3"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/allocations.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/allsubs.test.c",
+                "kind" : 6,
+                "line" : 139,
+                "name" : "ast_discrete(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, int, int, int, int, int, test_e, double, int)",
+                "parent_name" : "",
+                "usr" : "c:allsubs.test.c@F@ast_discrete"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/allsubs.test.c",
+                "kind" : 6,
+                "line" : 199,
+                "name" : "ast_gaustests(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, int, int, int, int, int, double, int, test_e)",
+                "parent_name" : "",
+                "usr" : "c:allsubs.test.c@F@ast_gaustests"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/allsubs.test.c",
+                "kind" : 6,
+                "line" : 282,
+                "name" : "ast_micg(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, int, int, int, int, int, double, int)",
+                "parent_name" : "",
+                "usr" : "c:allsubs.test.c@F@ast_micg"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/allsubs.test.c",
+                "kind" : 6,
+                "line" : 440,
+                "name" : "ast_dperm(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, int, int, int, int, int, double, test_e, int, double, int)",
+                "parent_name" : "",
+                "usr" : "c:allsubs.test.c@F@ast_dperm"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/allsubs.test.c",
+                "kind" : 6,
+                "line" : 478,
+                "name" : "ast_gperm(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, int, int, int, int, int, double, test_e, int, double, int)",
+                "parent_name" : "",
+                "usr" : "c:allsubs.test.c@F@ast_gperm"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/allsubs.test.c",
+                "kind" : 6,
+                "line" : 528,
+                "name" : "allsubs_test(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@allsubs_test"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/allsubs.test.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/arcs2amat.c",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "arcs2amat(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@arcs2amat"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/arcs2amat.c",
+                "kind" : 6,
+                "line" : 46,
+                "name" : "amat2arcs(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@amat2arcs"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/arcs2amat.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/arcs2elist.c",
+                "kind" : 6,
+                "line" : 9,
+                "name" : "arcs2elist(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@arcs2elist"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/arcs2elist.c",
+                "kind" : 6,
+                "line" : 20,
+                "name" : "arcs2welist(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@arcs2welist"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/arcs2elist.c",
+                "kind" : 6,
+                "line" : 119,
+                "name" : "arcs2uelist(SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@arcs2uelist"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/arcs2elist.c",
+                "kind" : 6,
+                "line" : 206,
+                "name" : "elist2arcs(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@elist2arcs"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/arcs2elist.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/averaging.c",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "smart_network_averaging(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@smart_network_averaging"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/averaging.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/bayesian.network.c",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "nbr2arcs(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@nbr2arcs"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/bayesian.network.c",
+                "kind" : 6,
+                "line" : 76,
+                "name" : "all_equal(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@all_equal"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/bayesian.network.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/bind.c",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "arcs_rbind(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@arcs_rbind"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/bind.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/bn.recovery.c",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "bn_recovery(SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@bn_recovery"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/bn.recovery.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/bootstrap.c",
+                "kind" : 6,
+                "line" : 8,
+                "name" : "bootstrap_strength_counters(SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@bootstrap_strength_counters"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/bootstrap.c",
+                "kind" : 6,
+                "line" : 48,
+                "name" : "bootstrap_arc_coefficients(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@bootstrap_arc_coefficients"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/bootstrap.c",
+                "kind" : 6,
+                "line" : 125,
+                "name" : "bootstrap_reduce(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@bootstrap_reduce"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/bootstrap.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cache.structure.c",
+                "kind" : 6,
+                "line" : 14,
+                "name" : "cache_structure(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@cache_structure"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cache.structure.c",
+                "kind" : 6,
+                "line" : 51,
+                "name" : "cache_partial_structure(SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@cache_partial_structure"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cache.structure.c",
+                "kind" : 6,
+                "line" : 74,
+                "name" : "c_cache_partial_structure(int, SEXP, SEXP, int *, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_cache_partial_structure"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cache.structure.c",
+                "kind" : 6,
+                "line" : 89,
+                "name" : "cache_node_structure(int, SEXP, int *, int, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:cache.structure.c@F@cache_node_structure"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/cache.structure.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cg.assumptions.c",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "arcs_cg_assumptions(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@arcs_cg_assumptions"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cg.assumptions.c",
+                "kind" : 6,
+                "line" : 90,
+                "name" : "cg_banned_arcs(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@cg_banned_arcs"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/cg.assumptions.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cg.loglikelihood.c",
+                "kind" : 6,
+                "line" : 10,
+                "name" : "ccgloglik(SEXP, SEXP, int *, int, int, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@ccgloglik"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cg.loglikelihood.c",
+                "kind" : 6,
+                "line" : 53,
+                "name" : "c_fast_ccgloglik(double *, double **, int, int, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_fast_ccgloglik"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cg.loglikelihood.c",
+                "kind" : 6,
+                "line" : 146,
+                "name" : "loglik_cgnode(SEXP, SEXP, SEXP, double *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@loglik_cgnode"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/cg.loglikelihood.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cg.mutual.information.c",
+                "kind" : 6,
+                "line" : 7,
+                "name" : "c_micg(double *, double, double, int *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_micg"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cg.mutual.information.c",
+                "kind" : 6,
+                "line" : 48,
+                "name" : "c_cmicg(double *, double **, int, int **, int, int *, int, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_cmicg"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cg.mutual.information.c",
+                "kind" : 6,
+                "line" : 82,
+                "name" : "c_cmicg_unroll(int *, int, int *, int, int *, int, double **, int, double *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_cmicg_unroll"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/cg.mutual.information.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/common.c",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "getListElement(SEXP, char *)",
+                "parent_name" : "",
+                "usr" : "c:@F@getListElement"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/common.c",
+                "kind" : 6,
+                "line" : 26,
+                "name" : "unique(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@unique"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/common.c",
+                "kind" : 6,
+                "line" : 74,
+                "name" : "dupe(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@dupe"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/common.c",
+                "kind" : 6,
+                "line" : 95,
+                "name" : "int2fac(SEXP, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@int2fac"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/common.c",
+                "kind" : 6,
+                "line" : 132,
+                "name" : "qr_matrix(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@qr_matrix"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/common.c",
+                "kind" : 6,
+                "line" : 168,
+                "name" : "finalize_arcs(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@finalize_arcs"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/common.c",
+                "kind" : 6,
+                "line" : 185,
+                "name" : "INV_UPTRI3(int, int, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@INV_UPTRI3"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/common.c",
+                "kind" : 6,
+                "line" : 206,
+                "name" : "normalize_cpt(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@normalize_cpt"
+            },
+            {
+                "column" : 7,
+                "file" : "/home/aogbechie/sources/bnlearn/src/common.c",
+                "kind" : 6,
+                "line" : 242,
+                "name" : "DATAPTR(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@DATAPTR"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/common.c",
+                "kind" : 6,
+                "line" : 261,
+                "name" : "mkRealVec(int, ...)",
+                "parent_name" : "",
+                "usr" : "c:@F@mkRealVec"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/common.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/configurations.c",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "configurations(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@configurations"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/configurations.c",
+                "kind" : 6,
+                "line" : 13,
+                "name" : "c_configurations(SEXP, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_configurations"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/configurations.c",
+                "kind" : 6,
+                "line" : 51,
+                "name" : "cfg(SEXP, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@cfg"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/configurations.c",
+                "kind" : 6,
+                "line" : 72,
+                "name" : "c_fast_config(int **, int, int, int *, int *, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_fast_config"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/configurations.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/contincency.tables.c",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "fill_2d_table(int *, int *, int ***, int **, int **, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@fill_2d_table"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/contincency.tables.c",
+                "kind" : 6,
+                "line" : 30,
+                "name" : "fill_3d_table(int *, int *, int *, int ****, int ***, int ***, int **, int, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@fill_3d_table"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/contincency.tables.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/covariance.c",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "c_covmat(double **, double *, int, int, double *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_covmat"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/covariance.c",
+                "kind" : 6,
+                "line" : 30,
+                "name" : "c_update_covmat(double **, double *, int, int, int, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_update_covmat"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/covariance.c",
+                "kind" : 6,
+                "line" : 51,
+                "name" : "c_sse(double *, double, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_sse"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/covariance.c",
+                "kind" : 6,
+                "line" : 63,
+                "name" : "c_mean(double *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_mean"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/covariance.c",
+                "kind" : 6,
+                "line" : 76,
+                "name" : "c_meanvec(double **, double *, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_meanvec"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/covariance.c",
+                "kind" : 6,
+                "line" : 91,
+                "name" : "c_ssevec(double **, double *, double *, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_ssevec"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/covariance.c",
+                "kind" : 6,
+                "line" : 108,
+                "name" : "c_update_meanvec(double **, double *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_update_meanvec"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/covariance.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cpdag.c",
+                "kind" : 6,
+                "line" : 31,
+                "name" : "vstructures(SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@vstructures"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cpdag.c",
+                "kind" : 6,
+                "line" : 71,
+                "name" : "amat2vstructs(int *, SEXP, int *, short *)",
+                "parent_name" : "",
+                "usr" : "c:cpdag.c@F@amat2vstructs"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cpdag.c",
+                "kind" : 6,
+                "line" : 138,
+                "name" : "cpdag(SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@cpdag"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cpdag.c",
+                "kind" : 6,
+                "line" : 213,
+                "name" : "fix_all_directed(int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:cpdag.c@F@fix_all_directed"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cpdag.c",
+                "kind" : 6,
+                "line" : 232,
+                "name" : "scan_graph(int *, SEXP, int *, short *, int)",
+                "parent_name" : "",
+                "usr" : "c:cpdag.c@F@scan_graph"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cpdag.c",
+                "kind" : 6,
+                "line" : 273,
+                "name" : "mark_vstructures(int *, SEXP, int *, short *, int)",
+                "parent_name" : "",
+                "usr" : "c:cpdag.c@F@mark_vstructures"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cpdag.c",
+                "kind" : 6,
+                "line" : 345,
+                "name" : "unmark_shielded(int *, SEXP, int *, short *, int)",
+                "parent_name" : "",
+                "usr" : "c:cpdag.c@F@unmark_shielded"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cpdag.c",
+                "kind" : 6,
+                "line" : 413,
+                "name" : "prevent_cycles(int *, SEXP, int *, short *, int)",
+                "parent_name" : "",
+                "usr" : "c:cpdag.c@F@prevent_cycles"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cpdag.c",
+                "kind" : 6,
+                "line" : 456,
+                "name" : "prevent_additional_vstructures(int *, SEXP, int *, short *, int)",
+                "parent_name" : "",
+                "usr" : "c:cpdag.c@F@prevent_additional_vstructures"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cpdag.c",
+                "kind" : 6,
+                "line" : 530,
+                "name" : "renormalize_amat(int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:cpdag.c@F@renormalize_amat"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cpdag.c",
+                "kind" : 6,
+                "line" : 538,
+                "name" : "pdag_extension(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@pdag_extension"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cpdag.c",
+                "kind" : 6,
+                "line" : 658,
+                "name" : "is_a_sink(int *, int, int *, int, int *, short *)",
+                "parent_name" : "",
+                "usr" : "c:cpdag.c@F@is_a_sink"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cpdag.c",
+                "kind" : 6,
+                "line" : 689,
+                "name" : "all_adjacent(int *, int, int, int, int *)",
+                "parent_name" : "",
+                "usr" : "c:cpdag.c@F@all_adjacent"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/cpdag.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/cpdist.c",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "cpdist_lw(SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@cpdist_lw"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/cpdist.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/ctest.c",
+                "kind" : 6,
+                "line" : 58,
+                "name" : "ct_discrete(SEXP, SEXP, SEXP, int, int, double *, double *, test_e)",
+                "parent_name" : "",
+                "usr" : "c:ctest.c@F@ct_discrete"
+            },
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/ctest.c",
+                "kind" : 6,
+                "line" : 111,
+                "name" : "ct_gaustests(SEXP, SEXP, SEXP, int, int, double *, double *, test_e)",
+                "parent_name" : "",
+                "usr" : "c:ctest.c@F@ct_gaustests"
+            },
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/ctest.c",
+                "kind" : 6,
+                "line" : 230,
+                "name" : "ct_micg(SEXP, SEXP, SEXP, int, int, double *, double *)",
+                "parent_name" : "",
+                "usr" : "c:ctest.c@F@ct_micg"
+            },
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/ctest.c",
+                "kind" : 6,
+                "line" : 371,
+                "name" : "ct_dperm(SEXP, SEXP, SEXP, int, int, double *, double *, test_e, int, double)",
+                "parent_name" : "",
+                "usr" : "c:ctest.c@F@ct_dperm"
+            },
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/ctest.c",
+                "kind" : 6,
+                "line" : 402,
+                "name" : "ct_gperm(SEXP, SEXP, SEXP, int, int, double *, double *, test_e, int, double)",
+                "parent_name" : "",
+                "usr" : "c:ctest.c@F@ct_gperm"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/ctest.c",
+                "kind" : 6,
+                "line" : 433,
+                "name" : "ctest(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@ctest"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/ctest.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/data.frame.c",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "minimal_data_frame(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@minimal_data_frame"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/data.frame.c",
+                "kind" : 6,
+                "line" : 39,
+                "name" : "dataframe_column(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@dataframe_column"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/data.frame.c",
+                "kind" : 6,
+                "line" : 45,
+                "name" : "c_dataframe_column(SEXP, SEXP, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_dataframe_column"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/data.frame.c",
+                "kind" : 6,
+                "line" : 111,
+                "name" : "node2df(SEXP, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@node2df"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/data.frame.c",
+                "kind" : 6,
+                "line" : 142,
+                "name" : "fitnode2df(SEXP, SEXP, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@fitnode2df"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/data.frame.c",
+                "kind" : 6,
+                "line" : 151,
+                "name" : "fit2df(SEXP, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@fit2df"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/data.frame.c",
+                "kind" : 6,
+                "line" : 173,
+                "name" : "df2micg(SEXP, void **, int *, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@df2micg"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/data.frame.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/dedup.c",
+                "kind" : 6,
+                "line" : 7,
+                "name" : "dedup(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@dedup"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/dedup.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/df.adjust.c",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "df_adjust(int *, int, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@df_adjust"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/df.adjust.c",
+                "kind" : 6,
+                "line" : 25,
+                "name" : "cdf_adjust(int **, int, int **, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@cdf_adjust"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/df.adjust.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/dirichlet.posterior.c",
+                "kind" : 6,
+                "line" : 8,
+                "name" : "dpost(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@dpost"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/dirichlet.posterior.c",
+                "kind" : 6,
+                "line" : 72,
+                "name" : "cdpost(SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@cdpost"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/dirichlet.posterior.c",
+                "kind" : 6,
+                "line" : 148,
+                "name" : "dirichlet_node(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@dirichlet_node"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/dirichlet.posterior.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/discrete.loglikelihood.c",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "dlik(SEXP, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@dlik"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/discrete.loglikelihood.c",
+                "kind" : 6,
+                "line" : 32,
+                "name" : "cdlik(SEXP, SEXP, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@cdlik"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/discrete.loglikelihood.c",
+                "kind" : 6,
+                "line" : 68,
+                "name" : "loglik_dnode(SEXP, SEXP, SEXP, double *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@loglik_dnode"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/discrete.loglikelihood.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/discrete.monte.carlo.c",
+                "kind" : 6,
+                "line" : 20,
+                "name" : "c_mcarlo(int *, int, int *, int, int, int, double *, double *, double, test_e, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_mcarlo"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/discrete.monte.carlo.c",
+                "kind" : 6,
+                "line" : 166,
+                "name" : "c_cmcarlo(int *, int, int *, int, int *, int, int, int, double *, double *, double, test_e, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_cmcarlo"
+            },
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/discrete.monte.carlo.c",
+                "kind" : 6,
+                "line" : 323,
+                "name" : "mc_jt(int **, int *, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:discrete.monte.carlo.c@F@mc_jt"
+            },
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/discrete.monte.carlo.c",
+                "kind" : 6,
+                "line" : 355,
+                "name" : "mc_cjt(int ***, int **, int *, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:discrete.monte.carlo.c@F@mc_cjt"
+            },
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/discrete.monte.carlo.c",
+                "kind" : 6,
+                "line" : 375,
+                "name" : "mc_cvjt(int **, int **, int *, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:discrete.monte.carlo.c@F@mc_cvjt"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/discrete.monte.carlo.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/discrete.tests.c",
+                "kind" : 6,
+                "line" : 11,
+                "name" : "mi(SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@mi"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/discrete.tests.c",
+                "kind" : 6,
+                "line" : 36,
+                "name" : "c_chisqtest(int *, int, int *, int, int, double *, test_e)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_chisqtest"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/discrete.tests.c",
+                "kind" : 6,
+                "line" : 73,
+                "name" : "c_cchisqtest(int *, int, int *, int, int *, int, int, double *, test_e)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_cchisqtest"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/discrete.tests.c",
+                "kind" : 6,
+                "line" : 110,
+                "name" : "mi_kernel(int **, int *, int *, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@mi_kernel"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/discrete.tests.c",
+                "kind" : 6,
+                "line" : 125,
+                "name" : "x2_kernel(int **, int *, int *, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@x2_kernel"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/discrete.tests.c",
+                "kind" : 6,
+                "line" : 147,
+                "name" : "cmi_kernel(int ***, int **, int **, int *, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@cmi_kernel"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/discrete.tests.c",
+                "kind" : 6,
+                "line" : 164,
+                "name" : "cx2_kernel(int ***, int **, int **, int *, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@cx2_kernel"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/discrete.tests.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/enums.c",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "test_label(const char *)",
+                "parent_name" : "",
+                "usr" : "c:@F@test_label"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/enums.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/filter.arcs.c",
+                "kind" : 6,
+                "line" : 7,
+                "name" : "unique_arcs(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@unique_arcs"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/filter.arcs.c",
+                "kind" : 6,
+                "line" : 14,
+                "name" : "c_unique_arcs(SEXP, SEXP, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_unique_arcs"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/filter.arcs.c",
+                "kind" : 6,
+                "line" : 113,
+                "name" : "which_undirected(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@which_undirected"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/filter.arcs.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/fitted.c",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "root_nodes(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@root_nodes"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/fitted.c",
+                "kind" : 6,
+                "line" : 76,
+                "name" : "fit2arcs(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@fit2arcs"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/fitted.c",
+                "kind" : 6,
+                "line" : 144,
+                "name" : "fitted_mb(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@fitted_mb"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/fitted.c",
+                "kind" : 6,
+                "line" : 198,
+                "name" : "num_arcs(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@num_arcs"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/fitted.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/gaussian.loglikelihood.c",
+                "kind" : 6,
+                "line" : 7,
+                "name" : "glik(SEXP, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@glik"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/gaussian.loglikelihood.c",
+                "kind" : 6,
+                "line" : 38,
+                "name" : "cglik(SEXP, SEXP, SEXP, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@cglik"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/gaussian.loglikelihood.c",
+                "kind" : 6,
+                "line" : 72,
+                "name" : "loglik_gnode(SEXP, SEXP, SEXP, double *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@loglik_gnode"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/gaussian.loglikelihood.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/gaussian.monte.carlo.c",
+                "kind" : 6,
+                "line" : 15,
+                "name" : "c_gauss_mcarlo(double *, double *, int, int, double *, double, test_e, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_gauss_mcarlo"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/gaussian.monte.carlo.c",
+                "kind" : 6,
+                "line" : 123,
+                "name" : "c_gauss_cmcarlo(double **, int, int, int, double *, double *, double, test_e)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_gauss_cmcarlo"
+            },
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/gaussian.monte.carlo.c",
+                "kind" : 6,
+                "line" : 258,
+                "name" : "mc_cov(double *, double *, double, double, int)",
+                "parent_name" : "",
+                "usr" : "c:gaussian.monte.carlo.c@F@mc_cov"
+            },
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/gaussian.monte.carlo.c",
+                "kind" : 6,
+                "line" : 271,
+                "name" : "mc_fast_pcor(double *, int, double *, double *, double *, int *)",
+                "parent_name" : "",
+                "usr" : "c:gaussian.monte.carlo.c@F@mc_fast_pcor"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/gaussian.monte.carlo.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/gaussian.tests.c",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "cor_t_trans(double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@cor_t_trans"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/gaussian.tests.c",
+                "kind" : 6,
+                "line" : 12,
+                "name" : "cor_zf_trans(double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@cor_zf_trans"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/gaussian.tests.c",
+                "kind" : 6,
+                "line" : 19,
+                "name" : "cor_mi_trans(double)",
+                "parent_name" : "",
+                "usr" : "c:@F@cor_mi_trans"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/gaussian.tests.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/globals.c",
+                "kind" : 6,
+                "line" : 10,
+                "name" : "c_onLoad",
+                "parent_name" : "",
+                "usr" : "c:@F@c_onLoad"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/globals.c",
+                "kind" : 6,
+                "line" : 27,
+                "name" : "c_onUnload",
+                "parent_name" : "",
+                "usr" : "c:@F@c_onUnload"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/globals.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/graph.generation.c",
+                "kind" : 6,
+                "line" : 25,
+                "name" : "empty_graph(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@empty_graph"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/graph.generation.c",
+                "kind" : 6,
+                "line" : 82,
+                "name" : "ordered_graph(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@ordered_graph"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/graph.generation.c",
+                "kind" : 6,
+                "line" : 170,
+                "name" : "ide_cozman_graph(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@ide_cozman_graph"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/graph.generation.c",
+                "kind" : 6,
+                "line" : 206,
+                "name" : "ic_2nodes(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:graph.generation.c@F@ic_2nodes"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/graph.generation.c",
+                "kind" : 6,
+                "line" : 326,
+                "name" : "c_ide_cozman(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:graph.generation.c@F@c_ide_cozman"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/graph.generation.c",
+                "kind" : 6,
+                "line" : 531,
+                "name" : "bn_base_structure(SEXP, SEXP, SEXP, SEXP, double, char *, char *)",
+                "parent_name" : "",
+                "usr" : "c:graph.generation.c@F@bn_base_structure"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/aogbechie/sources/bnlearn/src/graph.generation.c",
+                "kind" : 6,
+                "line" : 559,
+                "name" : "ic_logic(int *, SEXP, int *, int *, int *, int *, double *, int *, double *, int *, double *, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:graph.generation.c@F@ic_logic"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/graph.generation.c",
+                "kind" : 6,
+                "line" : 696,
+                "name" : "print_modelstring(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:graph.generation.c@F@print_modelstring"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/graph.generation.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/graph.priors.c",
+                "kind" : 6,
+                "line" : 11,
+                "name" : "graph_prior_prob(SEXP, SEXP, SEXP, SEXP, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@graph_prior_prob"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/graph.priors.c",
+                "kind" : 6,
+                "line" : 62,
+                "name" : "castelo_prior(SEXP, SEXP, SEXP, SEXP, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@castelo_prior"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/graph.priors.c",
+                "kind" : 6,
+                "line" : 163,
+                "name" : "castelo_completion(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@castelo_completion"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/graph.priors.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/hash.c",
+                "kind" : 6,
+                "line" : 8,
+                "name" : "arc_hash(SEXP, SEXP, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@arc_hash"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/hash.c",
+                "kind" : 6,
+                "line" : 27,
+                "name" : "c_arc_hash(int, int, int *, int *, int *, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_arc_hash"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/hash.c",
+                "kind" : 6,
+                "line" : 55,
+                "name" : "arc_hash_matrix(SEXP, SEXP, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@arc_hash_matrix"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/hash.c",
+                "kind" : 6,
+                "line" : 81,
+                "name" : "arc_hash_dataframe(SEXP, SEXP, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@arc_hash_dataframe"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/hash.c",
+                "kind" : 6,
+                "line" : 110,
+                "name" : "c_amat_hash(int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_amat_hash"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/hash.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/hc.cache.lookup.c",
+                "kind" : 6,
+                "line" : 9,
+                "name" : "score_cache_fill(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@score_cache_fill"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/hc.cache.lookup.c",
+                "kind" : 6,
+                "line" : 128,
+                "name" : "hc_opt_step(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@hc_opt_step"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/hc.cache.lookup.c",
+                "kind" : 6,
+                "line" : 350,
+                "name" : "bestop_update(SEXP, char *, const char *, const char *)",
+                "parent_name" : "",
+                "usr" : "c:@F@bestop_update"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/hc.cache.lookup.c",
+                "kind" : 6,
+                "line" : 358,
+                "name" : "hc_to_be_added(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@hc_to_be_added"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/hc.cache.lookup.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/htest.c",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "c_create_htest(double, SEXP, double, double, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_create_htest"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/htest.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/include/allocations.h",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/include/blas.h",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/include/bn.h",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/include/covariance.h",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/include/dataframe.h",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/include/debugging.h",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/include/globals.h",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/include/graph.h",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/include/learning.h",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/include/loss.h",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/include/matrix.h",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/include/rcore.h",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/include/sampling.h",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/include/scores.h",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/include/sets.h",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 4,
+                "name" : "ENOTEST",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@ENOTEST"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 5,
+                "name" : "MI",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@MI"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 6,
+                "name" : "MI_ADF",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@MI_ADF"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 7,
+                "name" : "X2",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@X2"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 8,
+                "name" : "X2_ADF",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@X2_ADF"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 9,
+                "name" : "JT",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@JT"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 10,
+                "name" : "COR",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@COR"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 11,
+                "name" : "ZF",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@ZF"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 12,
+                "name" : "MI_G",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@MI_G"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 13,
+                "name" : "MI_CG",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@MI_CG"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 14,
+                "name" : "MI_SH",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@MI_SH"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 15,
+                "name" : "MI_G_SH",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@MI_G_SH"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 16,
+                "name" : "MC_MI",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@MC_MI"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 17,
+                "name" : "MC_X2",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@MC_X2"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 18,
+                "name" : "SP_MI",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@SP_MI"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 19,
+                "name" : "SP_X2",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@SP_X2"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 20,
+                "name" : "MC_JT",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@MC_JT"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 21,
+                "name" : "SMC_MI",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@SMC_MI"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 22,
+                "name" : "SMC_X2",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@SMC_X2"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 23,
+                "name" : "SMC_JT",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@SMC_JT"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 24,
+                "name" : "MC_COR",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@MC_COR"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 25,
+                "name" : "MC_MI_G",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@MC_MI_G"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 26,
+                "name" : "MC_ZF",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@MC_ZF"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 27,
+                "name" : "SMC_COR",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@SMC_COR"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 28,
+                "name" : "SMC_MI_G",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@SMC_MI_G"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 5,
+                "line" : 29,
+                "name" : "SMC_ZF",
+                "parent_name" : "",
+                "usr" : "c:@EA@test_e@SMC_ZF"
+            },
+            {
+                "column" : 3,
+                "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+                "kind" : 8,
+                "line" : 30,
+                "name" : "test_e",
+                "parent_name" : "",
+                "usr" : "c:tests.h@T@test_e"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/include/tests.h",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/indep.test.c",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "indep_test(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@indep_test"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/indep.test.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/is.dag.c",
+                "kind" : 6,
+                "line" : 10,
+                "name" : "is_dag(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@is_dag"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/is.dag.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/is.row.equal.c",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "is_row_equal(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@is_row_equal"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/is.row.equal.c",
+                "kind" : 6,
+                "line" : 53,
+                "name" : "is_listed(SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@is_listed"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/is.row.equal.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/jonckheere.c",
+                "kind" : 6,
+                "line" : 9,
+                "name" : "c_jt(int *, int, int *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_jt"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/jonckheere.c",
+                "kind" : 6,
+                "line" : 30,
+                "name" : "c_cjt(int *, int, int *, int, int *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_cjt"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/jonckheere.c",
+                "kind" : 6,
+                "line" : 58,
+                "name" : "c_jt_mean(int, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_jt_mean"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/jonckheere.c",
+                "kind" : 6,
+                "line" : 71,
+                "name" : "c_jt_var(int, int *, int, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_jt_var"
+            },
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/jonckheere.c",
+                "kind" : 6,
+                "line" : 110,
+                "name" : "c_jt_stat(int **, int *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:jonckheere.c@F@c_jt_stat"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/jonckheere.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/likelihood.weighting.c",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "c_lw_weights(SEXP, SEXP, int, double *, SEXP, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_lw_weights"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/likelihood.weighting.c",
+                "kind" : 6,
+                "line" : 31,
+                "name" : "lw_weights(SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@lw_weights"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/likelihood.weighting.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/linear.algebra.c",
+                "kind" : 6,
+                "line" : 15,
+                "name" : "c_svd(double *, double *, double *, double *, int *, int *, int *, int, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_svd"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/linear.algebra.c",
+                "kind" : 6,
+                "line" : 44,
+                "name" : "c_ginv(double *, int, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_ginv"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/linear.algebra.c",
+                "kind" : 6,
+                "line" : 99,
+                "name" : "c_finv(double *, int *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_finv"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/linear.algebra.c",
+                "kind" : 6,
+                "line" : 215,
+                "name" : "c_quadratic(double *, int *, double *, double *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_quadratic"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/linear.algebra.c",
+                "kind" : 6,
+                "line" : 234,
+                "name" : "c_rotate(double *, double *, double *, double *, double *, int *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_rotate"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/linear.algebra.c",
+                "kind" : 6,
+                "line" : 255,
+                "name" : "c_qr_ols(double *, double *, int, int, double *, long double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_qr_ols"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/linear.algebra.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/linear.correlation.c",
+                "kind" : 6,
+                "line" : 20,
+                "name" : "c_fast_cor(double *, double *, int, double, double, long double, long double)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_fast_cor"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/linear.correlation.c",
+                "kind" : 6,
+                "line" : 41,
+                "name" : "c_fast_pcor(double *, double *, double *, double *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_fast_pcor"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/linear.correlation.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/loss.c",
+                "kind" : 6,
+                "line" : 27,
+                "name" : "entropy_loss(SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@entropy_loss"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/loss.c",
+                "kind" : 6,
+                "line" : 53,
+                "name" : "c_entropy_loss(SEXP, SEXP, int, int, double *, SEXP, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_entropy_loss"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/loss.c",
+                "kind" : 6,
+                "line" : 160,
+                "name" : "c_gloss(int *, SEXP, double *, double *, void **, SEXP, int, double *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_gloss"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/loss.c",
+                "kind" : 6,
+                "line" : 207,
+                "name" : "c_dloss(int *, SEXP, int *, double *, SEXP, SEXP, int, int, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_dloss"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/loss.c",
+                "kind" : 6,
+                "line" : 257,
+                "name" : "c_cgloss(int *, SEXP, SEXP, SEXP, SEXP, double *, double *, void **, SEXP, int, double *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_cgloss"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/loss.c",
+                "kind" : 6,
+                "line" : 353,
+                "name" : "class_err(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@class_err"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/loss.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/map.lw.c",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "posterior_mean(double *, double *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:map.lw.c@F@posterior_mean"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/aogbechie/sources/bnlearn/src/map.lw.c",
+                "kind" : 6,
+                "line" : 30,
+                "name" : "posterior_mode(int *, double *, int, long double *, SEXP, int, int)",
+                "parent_name" : "",
+                "usr" : "c:map.lw.c@F@posterior_mode"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/map.lw.c",
+                "kind" : 6,
+                "line" : 62,
+                "name" : "mappred(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@mappred"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/map.lw.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/mi.matrix.c",
+                "kind" : 6,
+                "line" : 58,
+                "name" : "mi_matrix(double *, void **, int, int *, int *, void *, int *, double *, double *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@mi_matrix"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/mi.matrix.c",
+                "kind" : 6,
+                "line" : 122,
+                "name" : "aracne(SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@aracne"
+            },
+            {
+                "column" : 12,
+                "file" : "/home/aogbechie/sources/bnlearn/src/mi.matrix.c",
+                "kind" : 6,
+                "line" : 274,
+                "name" : "chow_liu_blacklist(int *, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:mi.matrix.c@F@chow_liu_blacklist"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/mi.matrix.c",
+                "kind" : 6,
+                "line" : 285,
+                "name" : "chow_liu(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@chow_liu"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/mi.matrix.c",
+                "kind" : 6,
+                "line" : 447,
+                "name" : "tree_directions(SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@tree_directions"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/mi.matrix.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/nparams.c",
+                "kind" : 6,
+                "line" : 7,
+                "name" : "nparams_cgnet(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@nparams_cgnet"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/nparams.c",
+                "kind" : 6,
+                "line" : 65,
+                "name" : "nparams_fitted(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@nparams_fitted"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/nparams.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/parse.c",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "match_brace(SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@match_brace"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/parse.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/path.c",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "has_pdag_path(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@has_pdag_path"
+            },
+            {
+                "column" : 5,
+                "file" : "/home/aogbechie/sources/bnlearn/src/path.c",
+                "kind" : 6,
+                "line" : 18,
+                "name" : "c_has_path(int, int, int *, int, SEXP, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_has_path"
+            },
+            {
+                "column" : 5,
+                "file" : "/home/aogbechie/sources/bnlearn/src/path.c",
+                "kind" : 6,
+                "line" : 154,
+                "name" : "c_directed_path(int, int, int *, int, SEXP, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_directed_path"
+            },
+            {
+                "column" : 5,
+                "file" : "/home/aogbechie/sources/bnlearn/src/path.c",
+                "kind" : 6,
+                "line" : 249,
+                "name" : "c_uptri3_path(short *, int, int, int, SEXP, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_uptri3_path"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/path.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/pdag2dag.c",
+                "kind" : 6,
+                "line" : 9,
+                "name" : "pdag2dag(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@pdag2dag"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/pdag2dag.c",
+                "kind" : 6,
+                "line" : 44,
+                "name" : "dag2ug(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@dag2ug"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/pdag2dag.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/per.node.score.c",
+                "kind" : 6,
+                "line" : 11,
+                "name" : "per_node_score(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@per_node_score"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/per.node.score.c",
+                "kind" : 6,
+                "line" : 31,
+                "name" : "c_per_node_score(SEXP, SEXP, SEXP, SEXP, SEXP, int, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_per_node_score"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/per.node.score.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/predict.c",
+                "kind" : 6,
+                "line" : 9,
+                "name" : "gpred(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@gpred"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/predict.c",
+                "kind" : 6,
+                "line" : 39,
+                "name" : "cgpred(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@cgpred"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/predict.c",
+                "kind" : 6,
+                "line" : 88,
+                "name" : "dpred(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@dpred"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/predict.c",
+                "kind" : 6,
+                "line" : 170,
+                "name" : "cdpred(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@cdpred"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/predict.c",
+                "kind" : 6,
+                "line" : 273,
+                "name" : "ccgpred(SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@ccgpred"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/predict.c",
+                "kind" : 6,
+                "line" : 327,
+                "name" : "naivepred(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@naivepred"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/predict.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/rbn.c",
+                "kind" : 6,
+                "line" : 24,
+                "name" : "rbn_master(SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@rbn_master"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/rbn.c",
+                "kind" : 6,
+                "line" : 40,
+                "name" : "c_rbn_master(SEXP, SEXP, SEXP, SEXP, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_rbn_master"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/rbn.c",
+                "kind" : 6,
+                "line" : 227,
+                "name" : "rbn_discrete_fixed(SEXP, SEXP, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@rbn_discrete_fixed"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/rbn.c",
+                "kind" : 6,
+                "line" : 258,
+                "name" : "rbn_discrete_root(SEXP, int, SEXP, int, int, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@rbn_discrete_root"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/rbn.c",
+                "kind" : 6,
+                "line" : 292,
+                "name" : "rbn_discrete_cond(SEXP, SEXP, int, SEXP, SEXP, int, int, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@rbn_discrete_cond"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/rbn.c",
+                "kind" : 6,
+                "line" : 336,
+                "name" : "rbn_gaussian_fixed(SEXP, double *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@rbn_gaussian_fixed"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/rbn.c",
+                "kind" : 6,
+                "line" : 362,
+                "name" : "rbn_gaussian(SEXP, int, SEXP, SEXP, SEXP, int, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@rbn_gaussian"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/rbn.c",
+                "kind" : 6,
+                "line" : 399,
+                "name" : "rbn_mixedcg(SEXP, int, SEXP, SEXP, SEXP, SEXP, SEXP, int, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@rbn_mixedcg"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/rbn.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/rcont2.c",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "c_rcont2(int, int, int *, int *, int, double *, int *, int **)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_rcont2"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/rcont2.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/roundrobin.test.c",
+                "kind" : 6,
+                "line" : 112,
+                "name" : "rrd_discrete(SEXP, SEXP, int *, SEXP, SEXP, int, int, test_e, double *, double, int)",
+                "parent_name" : "",
+                "usr" : "c:roundrobin.test.c@F@rrd_discrete"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/roundrobin.test.c",
+                "kind" : 6,
+                "line" : 162,
+                "name" : "rrd_gaustests(SEXP, SEXP, int *, SEXP, SEXP, int, int, test_e, double *, double, int)",
+                "parent_name" : "",
+                "usr" : "c:roundrobin.test.c@F@rrd_gaustests"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/roundrobin.test.c",
+                "kind" : 6,
+                "line" : 240,
+                "name" : "rrd_micg(SEXP, SEXP, int *, SEXP, SEXP, int, int, test_e, double *, double, int)",
+                "parent_name" : "",
+                "usr" : "c:roundrobin.test.c@F@rrd_micg"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/roundrobin.test.c",
+                "kind" : 6,
+                "line" : 412,
+                "name" : "rrd_dperm(SEXP, SEXP, int *, SEXP, SEXP, int, int, test_e, double *, double, int, double, int)",
+                "parent_name" : "",
+                "usr" : "c:roundrobin.test.c@F@rrd_dperm"
+            },
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/roundrobin.test.c",
+                "kind" : 6,
+                "line" : 443,
+                "name" : "rrd_gperm(SEXP, SEXP, int *, SEXP, SEXP, int, int, test_e, double *, double, int, double, int)",
+                "parent_name" : "",
+                "usr" : "c:roundrobin.test.c@F@rrd_gperm"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/roundrobin.test.c",
+                "kind" : 6,
+                "line" : 470,
+                "name" : "roundrobin_test(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@roundrobin_test"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/roundrobin.test.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/sampling.c",
+                "kind" : 6,
+                "line" : 17,
+                "name" : "SampleNoReplace(int, int, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@SampleNoReplace"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/sampling.c",
+                "kind" : 6,
+                "line" : 40,
+                "name" : "SampleReplace(int, int, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@SampleReplace"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/sampling.c",
+                "kind" : 6,
+                "line" : 55,
+                "name" : "ProbSampleReplace(int, double *, int *, int, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@ProbSampleReplace"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/sampling.c",
+                "kind" : 6,
+                "line" : 87,
+                "name" : "CondProbSampleReplace(int, int, double *, int *, int *, int, int *, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@CondProbSampleReplace"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/sampling.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/sanitization.c",
+                "kind" : 6,
+                "line" : 3,
+                "name" : "data_frame_finite(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@data_frame_finite"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/sanitization.c",
+                "kind" : 6,
+                "line" : 23,
+                "name" : "data_type(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@data_type"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/sanitization.c",
+                "kind" : 6,
+                "line" : 81,
+                "name" : "fitted_vs_data(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@fitted_vs_data"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/sanitization.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 13,
+                "file" : "/home/aogbechie/sources/bnlearn/src/score.delta.c",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "score_delta_helper(SEXP, SEXP, SEXP, int, int)",
+                "parent_name" : "",
+                "usr" : "c:score.delta.c@F@score_delta_helper"
+            },
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/score.delta.c",
+                "kind" : 6,
+                "line" : 203,
+                "name" : "robust_score_difference(double, double, double, double)",
+                "parent_name" : "",
+                "usr" : "c:score.delta.c@F@robust_score_difference"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/score.delta.c",
+                "kind" : 6,
+                "line" : 229,
+                "name" : "score_delta_decomposable(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@score_delta_decomposable"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/score.delta.c",
+                "kind" : 6,
+                "line" : 273,
+                "name" : "score_delta_cs(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@score_delta_cs"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/score.delta.c",
+                "kind" : 6,
+                "line" : 345,
+                "name" : "score_delta_monolithic(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@score_delta_monolithic"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/score.delta.c",
+                "kind" : 6,
+                "line" : 364,
+                "name" : "score_delta(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@score_delta"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/score.delta.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/shd.c",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "shd(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@shd"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/shd.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/shrinkage.c",
+                "kind" : 6,
+                "line" : 15,
+                "name" : "c_shmi(int *, int, int *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_shmi"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/shrinkage.c",
+                "kind" : 6,
+                "line" : 59,
+                "name" : "c_shcmi(int *, int, int *, int, int *, int, int, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@c_shcmi"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/shrinkage.c",
+                "kind" : 6,
+                "line" : 125,
+                "name" : "mi_lambda(double *, double *, double, int, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@mi_lambda"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/shrinkage.c",
+                "kind" : 6,
+                "line" : 172,
+                "name" : "cor_lambda(double *, double *, int, double, double, double, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@cor_lambda"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/shrinkage.c",
+                "kind" : 6,
+                "line" : 204,
+                "name" : "covmat_lambda(double **, double *, double *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@covmat_lambda"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/shrinkage.c",
+                "kind" : 6,
+                "line" : 247,
+                "name" : "covmat_shrink(double *, int, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@covmat_shrink"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/shrinkage.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/simulation.c",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "schedule(SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@schedule"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/simulation.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/strings.c",
+                "kind" : 6,
+                "line" : 4,
+                "name" : "string_setdiff(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@string_setdiff"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/strings.c",
+                "kind" : 6,
+                "line" : 26,
+                "name" : "string_delete(SEXP, SEXP, int *)",
+                "parent_name" : "",
+                "usr" : "c:@F@string_delete"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/strings.c",
+                "kind" : 6,
+                "line" : 52,
+                "name" : "mkStringVec(int, ...)",
+                "parent_name" : "",
+                "usr" : "c:@F@mkStringVec"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/strings.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/subsets.c",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "first_subset(int *, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@first_subset"
+            },
+            {
+                "column" : 5,
+                "file" : "/home/aogbechie/sources/bnlearn/src/subsets.c",
+                "kind" : 6,
+                "line" : 13,
+                "name" : "next_subset(int *, int, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@next_subset"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/subsets.c",
+                "kind" : 6,
+                "line" : 54,
+                "name" : "r_subsets(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@r_subsets"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/subsets.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/symmetric.c",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "is_symmetric(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@is_symmetric"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/symmetric.c",
+                "kind" : 6,
+                "line" : 23,
+                "name" : "is_cauchy_schwarz(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@is_cauchy_schwarz"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/symmetric.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/tabu.c",
+                "kind" : 6,
+                "line" : 19,
+                "name" : "tabu_hash(SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@tabu_hash"
+            },
+            {
+                "column" : 5,
+                "file" : "/home/aogbechie/sources/bnlearn/src/tabu.c",
+                "kind" : 6,
+                "line" : 37,
+                "name" : "tabu_match(SEXP, int *, int *, int *, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@tabu_match"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/tabu.c",
+                "kind" : 6,
+                "line" : 91,
+                "name" : "tabu_step(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@tabu_step"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/tabu.c",
+                "kind" : 6,
+                "line" : 180,
+                "name" : "tabu_add(double *, int *, int *, SEXP, SEXP, int *, int *, int *, double *, SEXP, int *, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@tabu_add"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/tabu.c",
+                "kind" : 6,
+                "line" : 261,
+                "name" : "tabu_del(double *, int *, int *, SEXP, SEXP, int *, int *, int *, double *, SEXP, int *, int *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@tabu_del"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/tabu.c",
+                "kind" : 6,
+                "line" : 334,
+                "name" : "tabu_rev(double *, int *, int *, SEXP, SEXP, int *, int *, int *, double *, int *, SEXP, int *, int *, double *, double *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@tabu_rev"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/tabu.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/test.counter.c",
+                "kind" : 6,
+                "line" : 7,
+                "name" : "increment_test_counter(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@increment_test_counter"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/test.counter.c",
+                "kind" : 6,
+                "line" : 26,
+                "name" : "reset_test_counter",
+                "parent_name" : "",
+                "usr" : "c:@F@reset_test_counter"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/test.counter.c",
+                "kind" : 6,
+                "line" : 35,
+                "name" : "get_test_counter",
+                "parent_name" : "",
+                "usr" : "c:@F@get_test_counter"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/test.counter.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/tiers.c",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "tiers(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@tiers"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/tiers.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/utest.c",
+                "kind" : 6,
+                "line" : 19,
+                "name" : "ut_discrete(SEXP, SEXP, int, int, double *, double *, test_e)",
+                "parent_name" : "",
+                "usr" : "c:utest.c@F@ut_discrete"
+            },
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/utest.c",
+                "kind" : 6,
+                "line" : 67,
+                "name" : "ut_gaustests(SEXP, SEXP, int, int, double *, double *, test_e)",
+                "parent_name" : "",
+                "usr" : "c:utest.c@F@ut_gaustests"
+            },
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/utest.c",
+                "kind" : 6,
+                "line" : 137,
+                "name" : "ut_micg(SEXP, SEXP, int, int, double *, double *)",
+                "parent_name" : "",
+                "usr" : "c:utest.c@F@ut_micg"
+            },
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/utest.c",
+                "kind" : 6,
+                "line" : 226,
+                "name" : "ut_dperm(SEXP, SEXP, int, int, double *, double *, test_e, int, double)",
+                "parent_name" : "",
+                "usr" : "c:utest.c@F@ut_dperm"
+            },
+            {
+                "column" : 15,
+                "file" : "/home/aogbechie/sources/bnlearn/src/utest.c",
+                "kind" : 6,
+                "line" : 253,
+                "name" : "ut_gperm(SEXP, SEXP, int, int, double *, test_e, int, double)",
+                "parent_name" : "",
+                "usr" : "c:utest.c@F@ut_gperm"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/utest.c",
+                "kind" : 6,
+                "line" : 277,
+                "name" : "utest(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@utest"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/utest.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 5,
+                "file" : "/home/aogbechie/sources/bnlearn/src/which.max.c",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "d_which_max(double *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@d_which_max"
+            },
+            {
+                "column" : 5,
+                "file" : "/home/aogbechie/sources/bnlearn/src/which.max.c",
+                "kind" : 6,
+                "line" : 41,
+                "name" : "ld_which_max(long double *, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@ld_which_max"
+            },
+            {
+                "column" : 5,
+                "file" : "/home/aogbechie/sources/bnlearn/src/which.max.c",
+                "kind" : 6,
+                "line" : 77,
+                "name" : "all_max(double *, int, int *, int *, double *)",
+                "parent_name" : "",
+                "usr" : "c:@F@all_max"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/which.max.c",
+        "file_last_write" : 1448624047
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/wishart.posterior.c",
+                "kind" : 6,
+                "line" : 10,
+                "name" : "wpost(SEXP, int, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@wpost"
+            },
+            {
+                "column" : 6,
+                "file" : "/home/aogbechie/sources/bnlearn/src/wishart.posterior.c",
+                "kind" : 6,
+                "line" : 51,
+                "name" : "build_tau(double **, double *, int, int, int, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@build_tau"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/wishart.posterior.c",
+                "kind" : 6,
+                "line" : 110,
+                "name" : "cwpost(SEXP, SEXP, int, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@cwpost"
+            },
+            {
+                "column" : 8,
+                "file" : "/home/aogbechie/sources/bnlearn/src/wishart.posterior.c",
+                "kind" : 6,
+                "line" : 211,
+                "name" : "wishart_node(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@wishart_node"
+            }
+        ],
+        "file" : "/home/aogbechie/sources/bnlearn/src/wishart.posterior.c",
+        "file_last_write" : 1448624047
+    }
+]
